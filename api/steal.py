@@ -1,7 +1,7 @@
 import requests
 
 # URL do webhook do GitHub (substitua com sua URL real)
-URL_WEBHOOK = "https://discord.com/api/webhooks/1234567890abcdef"
+URL_WEBHOOK = "https://discordapp.com/api/webhooks/1453524733734686866/QtSOE21NzYmL3F7qRpuiltXN8X8Dt4kDGUCyRrFeU1_OF_x81pG4IGx94-o6xXG0cgmm"
 
 def enviar_mensagem_discord(mensagem):
     """Envia uma mensagem para o webhook do Discord."""
